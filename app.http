@@ -38,7 +38,7 @@ Authorization: Barear eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6IkpvZ
 
 ####
 //
-GET http://localhost:3000/tweets/3/
+GET http://localhost:3000/tweets/2/
 Content-Type: application/json
 Authorization: Barear eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6IkpvZUJpZGVuIiwiaWF0IjoxNjc4Mzg3MjcyfQ._Jmwetf56Wpl0Dyl0Skf-Z1Joe_67-YYsCucwX-ZCp0
 
